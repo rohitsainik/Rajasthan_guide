@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Raj Guide</string>
+    <string name="udp">Udaipur, also known as the "City of Lakes", is a city governed by Municipal Corporation which comes under Udaipur Metropolitan Region.
+It is the historic capital of the kingdom of Mewar in the former Rajputana Agency.
+Udaipur is located in the southernmost part of Rajasthan, near the Gujarat border. It is surrounded by Aravali Range, which separates it from Thar Desert.
+it has seven lakes surrounding the city. Five of the major lakes, namely Fateh Sagar Lake, Lake Pichola, Swaroop Sagar Lake, Rangsagar and Doodh Talai Lake</string>
+
+    <string name="kota">Kota is a city on the Chambal River in Rajasthan, northern India. Inside the Kota Garh, or City Palace, the Maharao Madho Singh Museum exhibits miniature paintings and antique weapons. South, along the river, tranquil Chambal Garden has a pond with crocodiles. Northeast, 18th-century Jagmandir Palace sits in the middle of Kishore Sagar Lake. Seven Wonders Park includes mini replicas of the Eiffel Tower and Taj Mahal.
+</string>
+
+    <string name="sirohi">Sirohi is a city in southern Rajasthan state in western India. It is the administrative headquarters of Sirohi District and was formerly the capital of the princely state of Sirohi ruled by Sirohi Rajput rulers.Sirohi is well connected to highways of India by the NHAI . NH 62 connects sirohi from South starting from Pindwara to the north up to the Pali District of Rajasthan and continues up to Beawar.
+</string>
+    <string name="bikaner">Bikaner is a city in the north Indian state of Rajasthan, east of the border with Pakistan.
+It is  surrounded by the Thar Desert. The city is known for the 16th-century Junagarh Fort, a huge complex of ornate buildings and halls. Within the fort, the Prachina Museum displays traditional textiles and royal portraits.
+Nearby, the Karni Mata Temple is home to many rats considered sacred by Hindu devotees.
+</string>
+    <string name="jaipur">Jaipur is the capital of India’s Rajasthan state.
+It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex.
+With gardens, courtyards and museums, part of it is still a royal residence.
+</string>
+    <string name="jodhpur">jodhpur is a city in the Thar Desert of the northwest Indian state of Rajasthan. Its 15th-century Mehrangarh Fort is a former palace that’s now a museum, displaying weapons, paintings and elaborate royal palanquins (sedan chairs). Set on on a rocky outcrop, the fort overlooks the walled city, where many buildings are painted the city’s iconic shade of blue.
+</string>
+    <string name="jaisalmer">Jaisalmer is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," it is distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja Palace and intricately carved Jain temples.
+</string>
+    <string name="alwar">Alwar is a city in the northern Indian state of Rajasthan. Alwar City Palace, from 1793, blends architectural styles and has marble pavilions on lotus-shaped bases in its courtyard, plus a museum with rare manuscripts. It’s next to the marble and sandstone Moosi Maharani Chhatri shrine. A steep path leads to the Bala Qila fort, with marble pillars and latticed balconies. Sariska Tiger Reserve lies southwest of Alwar.
+</string>
+    <string name="ajmer">Ajmer is a city in the northern Indian state of Rajasthan. South of the city artificial Ana Sagar Lake is Ajmer Sharif Dargah, the domed shrine of the Muslim Sufi saint Garib Nawaz. Nearby, a 16th-century palace built by the Mughal emperor Akbar now houses the Ajmer Government Museum, displaying armor and stone sculptures. A museum at the Indo-Saracenic–style Mayo College exhibits art and taxidermied birds.
+</string>
+
+    <string name="chittorgarh">Chittorgarh is a city and municipality in Rajasthan, northwest India. It’s known for the honey-colored, 7th-century Chittorgarh Fort, a vast hilltop complex with the remains of many temples and monuments. The 15th-century, 9-story Vijay Stambh (Tower of Victory) is built from red sandstone and white marble. It offers city views from the top, and it is lit up at night. Nearby is the Rajput-style Fateh Prakash Palace.
+</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
