@@ -9,8 +9,6 @@ import android.support.v7.app.AppCompatActivity;
 
 public class splash_time extends AppCompatActivity {
 
-    private static int SPLASH_TIME = 2000; //This is 4 seconds
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,6 +22,6 @@ public class splash_time extends AppCompatActivity {
 
                 finish();
             }
-        }, SPLASH_TIME);
+        }, 2000);
     }
 }
